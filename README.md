@@ -3,6 +3,7 @@
 おめがシスターズのARが体験できます。
 
 本家はこちら: https://github.com/omegasisters/OmesisAR
-ARはこちら: 
+
+ARはこちら: https://naitonanaco.github.io/OmesisAR-Respect/.
 
 おとひめさんモデル: https://3d.nicovideo.jp/works/td41391
